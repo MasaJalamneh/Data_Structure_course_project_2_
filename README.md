@@ -1,0 +1,2 @@
+📚 Student Records Management System
+This project is a C-based interactive application for managing student data using a Binary Search Tree (BST). Designed to simulate a real-world school secretary tool, it allows users to insert, update, delete, and search student records by ID, name, city, or class. The system supports alphabetical sorting of records, persistent file storage, and automatic data loading on startup. It emphasizes structured programming, clean code, and documentation, and showcases practical use of data structures for efficient data management.
